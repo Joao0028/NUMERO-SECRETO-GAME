@@ -8,7 +8,7 @@ Simples, primeiramente você terá que  permititr o uso  do seu microfone, e ap�
 
 <h1>Intuito do Game</h1>
 
-O intuito deste projeto é mostrar um poco do meu conhecimento adquirido no curso em Javascript.
+O intuito deste projeto é mostrar um poco do meu conhecimento adquirido no curso, com foco em Javascript.
 
 O jogo roda somente em desktops.
 
