@@ -12,4 +12,4 @@ O intuito deste projeto é mostrar um poco do meu conhecimento adquirido no curs
 
 O jogo roda somente em desktops.
 
-Espero que goste! - 
+Espero que goste! - https://joao0028.github.io/NUMERO-SECRETO-GAME/
