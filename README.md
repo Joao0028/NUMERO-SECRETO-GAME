@@ -10,6 +10,6 @@ Simples, primeiramente você terá que permitir o uso do seu microfone, e após 
 
 O intuito deste projeto é mostrar um pouco do meu conhecimento adquirido no curso, com foco em Javascript.
 
-O jogo roda somente em desktops.
+O jogo roda em todos aparelhos - Responsivo.
 
 Espero que goste! - https://joao0028.github.io/NUMERO-SECRETO-GAME/
